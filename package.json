@@ -1,0 +1,7 @@
+{
+  "name": "wordle-solver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marvin Li",
+  "license": "MIT"
+}
