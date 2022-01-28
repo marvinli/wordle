@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "author": "Marvin Li",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
 }

@@ -4,3 +4,8 @@ Some Wordle fun.
 ```
 node src/index
 ```
+
+**Tests:**
+```
+yarn jest
+```
